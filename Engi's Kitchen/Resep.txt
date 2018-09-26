@@ -1,0 +1,14 @@
+Nasi Putih | 1200 | 2 | Beras | Air
+Nasi Goreng | 3000 | 5 | Beras | Air | Bawang Putih | Lada | Kecap
+Ayam Goreng | 5000 | 3 | Ayam | Garam | Lada
+Tahu Goreng | 1000 | 3 | Tahu | Garam | Lada
+Tempe Goreng | 1000 | 3 | Tempe | Garam | Lada
+Udang Goreng | 8000 | 3 | Udang | Garam | Lada
+Cumi Saus Kecap | 8000 | 4 | Cumi | Garam | Lada | Kecap
+Telur Dadar | 1500 | 2 | Telur | Garam
+Tumis Kangkung | 2000 | 5 | Kangkung | Garam | Lada | Bawang Putih | Bawang Merah
+Terong Balado | 2000 | 3 | Terong | Cabai | Garam
+Perkedel | 1300 | 4 | Perkedel | Garam | Lada | Bawang Merah
+Mie Goreng | 3000 | 3 | Mie | Garam | Kecap
+Nasi Liwet | 1600 | 5 | Beras | Air | Santan | Bawang Merah | Bawang Putih
+Sayur Labu | 2000 | 4 | Labu | Garam | Lada | Air

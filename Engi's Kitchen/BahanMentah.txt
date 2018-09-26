@@ -1,0 +1,3 @@
+Daging Sapi | 5000 | 10
+Anjing | 1000 | 10
+Minyak Goreng | 1000 | 10
